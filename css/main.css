@@ -15,7 +15,7 @@ button,
 input,
 select,
 textarea {
-  color: #222;
+  color: #fff;
 }
 
 html {
@@ -118,7 +118,7 @@ ul {
 a,
 a:hover,
 a:visited {
-  color: #000;
+  color: #fff;
   text-decoration: none;
 }
 
